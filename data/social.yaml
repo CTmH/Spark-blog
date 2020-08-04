@@ -1,0 +1,7 @@
+- item: "github"
+  url: "https://github.com/CTmH"
+- item: "mail"
+  url: "mailto:chezhang@mail.com"
+- item: "rss"
+  url: "index.xml"
+  internal:  true
