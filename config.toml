@@ -1,6 +1,6 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "https://www.surplusval.top/"  # Include trailing slash
+baseurl = "/"  # Include trailing slash
 title = "Spark 星火"
 author = "Che"
 copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
