@@ -6,9 +6,9 @@
 #   link: /categories/music/
 - name: Links
   submenu:
-    - name: LinkedIn
-      link: https://www.linkedin.com/
-    - name: Twitter
-      link: https://twitter.com/
+    - name: 中文马克思主义文库
+      link: https://www.marxists.org/chinese/
+    - name: 霞之彼端
+      link: https://www.ohmysites.com/
 - name: About
   link: about/
